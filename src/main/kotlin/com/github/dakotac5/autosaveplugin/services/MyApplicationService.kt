@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dakotac5.autosaveplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dakotac5.autosaveplugin.MyBundle
 
 class MyApplicationService {
 

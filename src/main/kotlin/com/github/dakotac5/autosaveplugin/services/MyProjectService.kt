@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.dakotac5.autosaveplugin.services
 
+import com.github.dakotac5.autosaveplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
